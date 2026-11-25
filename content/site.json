@@ -46,56 +46,6 @@
   ],
   "lanes": [
     {
-      "title": "Motion & Animation",
-      "tag": "2D / REELS / CAMPAIGNS",
-      "cover": "/images/blue-motion.jpg",
-      "more_link": "",
-      "projects": [
-        {
-          "title": "ALOEKITA & THE FOUR GIRLS",
-          "meta": "2D ANIMATION SERIES — ألوكيتا و الأربع بنات",
-          "image": "/images/thumb-aloekita4.jpg",
-          "link": "https://vimeo.com/1109350508",
-          "button": "WATCH →"
-        },
-        {
-          "title": "SNOW MAN VS ALOEKITA",
-          "meta": "2D MOTION — BEHANCE",
-          "image": "/images/thumb-snowman.jpg",
-          "link": "https://www.behance.net/gallery/227861489/Snow-man-VS-aleokita",
-          "button": "VIEW →"
-        },
-        {
-          "title": "RE ANIMATE — BRAVO APP",
-          "meta": "RE-ANIMATION — BEHANCE",
-          "image": "/images/thumb-bravo.jpg",
-          "link": "https://www.behance.net/gallery/150313399/re-animate-(bravo-app)",
-          "button": "VIEW →"
-        },
-        {
-          "title": "SUNLOVE",
-          "meta": "ANIMATION: MOHAMED · ILLUSTRATION: NADA HAMOUDY — LE MARQUE",
-          "image": "/images/thumb-sunlove-behance.jpg",
-          "link": "https://www.behance.net/gallery/223028509/sunlove",
-          "button": "VIEW →"
-        },
-        {
-          "title": "FAWAZEER PASSION BABY — SEASON 2",
-          "meta": "2D ANIMATION — RAMADAN SERIES",
-          "image": "/images/thumb-fawazeer.jpg",
-          "link": "https://vimeo.com/1070682531",
-          "button": "WATCH →"
-        },
-        {
-          "title": "SHOW REEL",
-          "meta": "MOTION DESIGN REEL",
-          "image": "/images/thumb-showreel.jpg",
-          "link": "https://vimeo.com/1041147737",
-          "button": "WATCH →"
-        }
-      ]
-    },
-    {
       "title": "3D & CGI",
       "tag": "PRODUCT CGI / VFX",
       "cover": "/images/blue-3d.jpg",
@@ -141,63 +91,6 @@
           "meta": "VFX — COMMERCIAL",
           "image": "/images/thumb-sunlove.jpg",
           "link": "https://vimeo.com/1073557220",
-          "button": "WATCH →"
-        }
-      ]
-    },
-    {
-      "title": "Social Media Motion",
-      "tag": "AFTER EFFECTS / REELS / ADS",
-      "cover": "/images/hero-blue.jpg",
-      "more_link": "https://drive.google.com/drive/folders/1UALztc4782K-o9daOcA6OcLzk_KvSjIl",
-      "projects": [
-        {
-          "title": "GAPZY 7 SERUMS",
-          "meta": "SOCIAL MEDIA MOTION — GAPZY",
-          "image": "/images/thumb-gapzy-social.jpg",
-          "link": "https://drive.google.com/file/d/1vk6kiyOFTjBtMYvZICj7cETt_yOq8oW3/view",
-          "button": "WATCH →"
-        },
-        {
-          "title": "ALOEKITA",
-          "meta": "SOCIAL MEDIA MOTION — ALOEKITA",
-          "image": "/images/thumb-drive-new.jpg",
-          "link": "https://drive.google.com/file/d/1k08Z_I5-ULC2_yP3eQHNoIIw8WL7npWJ/view",
-          "button": "WATCH →"
-        },
-        {
-          "title": "HORE OIL",
-          "meta": "SOCIAL MEDIA MOTION",
-          "image": "/images/thumb-horeoil.jpg",
-          "link": "https://drive.google.com/file/d/1ChNr6ArT68kzOcSbHMGC_3Ft0tzytUmu/view",
-          "button": "WATCH →"
-        },
-        {
-          "title": "ANTI-DANDRUFF REEL",
-          "meta": "SOCIAL MEDIA REEL",
-          "image": "/images/thumb-antidandruff.jpg",
-          "link": "https://drive.google.com/file/d/1UK8W7QJnFP2Q4RMpFrk8HJmpiUVLFjbs/view",
-          "button": "WATCH →"
-        },
-        {
-          "title": "SERUM TYPES",
-          "meta": "SOCIAL MEDIA MOTION — أنواع السيرم",
-          "image": "/images/thumb-serum.jpg",
-          "link": "https://drive.google.com/file/d/1YoMU3si1A5-XqjQN9rtK0mLwXetXCIaj/view",
-          "button": "WATCH →"
-        },
-        {
-          "title": "EMA SOCIAL",
-          "meta": "SOCIAL MEDIA MOTION",
-          "image": "/images/thumb-ema2.jpg",
-          "link": "https://drive.google.com/file/d/17LJqJ6aU3SEiX_sFPFXPxs1VFk-royEM/view",
-          "button": "WATCH →"
-        },
-        {
-          "title": "AGERA — BUY 2 GET 2 FREE",
-          "meta": "SOCIAL MEDIA MOTION — AGERA SKINCARE",
-          "image": "/images/thumb-agera.jpg",
-          "link": "https://drive.google.com/file/d/1NuBk5RZfzGp7LN7cnWB8S4o8EMst50V3/view",
           "button": "WATCH →"
         }
       ]
@@ -260,37 +153,51 @@
       ]
     },
     {
-      "title": "Logo Animation",
-      "tag": "IDENTS / REVEALS",
-      "cover": "/images/blue-logoanim.jpg",
+      "title": "Motion & Animation",
+      "tag": "2D / REELS / CAMPAIGNS",
+      "cover": "/images/blue-motion.jpg",
       "more_link": "",
       "projects": [
         {
-          "title": "MAN LINE ANIMATION",
-          "meta": "LINE-ART LOGO FILM",
-          "image": "/images/thumb-manline.jpg",
-          "link": "https://vimeo.com/1122851614",
+          "title": "ALOEKITA & THE FOUR GIRLS",
+          "meta": "2D ANIMATION SERIES — ألوكيتا و الأربع بنات",
+          "image": "/images/thumb-aloekita4.jpg",
+          "link": "https://vimeo.com/1109350508",
           "button": "WATCH →"
         },
         {
-          "title": "PLAYGROUND LOGO ANIMATION",
-          "meta": "LOGO IDENT",
-          "image": "/images/thumb-playground.jpg",
-          "link": "https://vimeo.com/1115606830",
+          "title": "SNOW MAN VS ALOEKITA",
+          "meta": "2D MOTION — BEHANCE",
+          "image": "/images/thumb-snowman.jpg",
+          "link": "https://www.behance.net/gallery/227861489/Snow-man-VS-aleokita",
+          "button": "VIEW →"
+        },
+        {
+          "title": "RE ANIMATE — BRAVO APP",
+          "meta": "RE-ANIMATION — BEHANCE",
+          "image": "/images/thumb-bravo.jpg",
+          "link": "https://www.behance.net/gallery/150313399/re-animate-(bravo-app)",
+          "button": "VIEW →"
+        },
+        {
+          "title": "SUNLOVE",
+          "meta": "ANIMATION: MOHAMED · ILLUSTRATION: NADA HAMOUDY — LE MARQUE",
+          "image": "/images/thumb-sunlove-behance.jpg",
+          "link": "https://www.behance.net/gallery/223028509/sunlove",
+          "button": "VIEW →"
+        },
+        {
+          "title": "FAWAZEER PASSION BABY — SEASON 2",
+          "meta": "2D ANIMATION — RAMADAN SERIES",
+          "image": "/images/thumb-fawazeer.jpg",
+          "link": "https://vimeo.com/1070682531",
           "button": "WATCH →"
         },
         {
-          "title": "COLLECT OF LOGO ANIMATION",
-          "meta": "LOGO COMPILATION",
-          "image": "/images/thumb-logocollect.jpg",
-          "link": "https://vimeo.com/1093547749",
-          "button": "WATCH →"
-        },
-        {
-          "title": "CUBES LOGO ANIMATION",
-          "meta": "3D LOGO IDENT",
-          "image": "/images/thumb-cubes.jpg",
-          "link": "https://vimeo.com/782090231",
+          "title": "SHOW REEL",
+          "meta": "MOTION DESIGN REEL",
+          "image": "/images/thumb-showreel.jpg",
+          "link": "https://vimeo.com/1041147737",
           "button": "WATCH →"
         }
       ]
@@ -334,6 +241,99 @@
           "meta": "COLLAGE MOTION — VIMEO",
           "image": "/images/thumb-aloekita-collage.jpg",
           "link": "https://vimeo.com/1036981851",
+          "button": "WATCH →"
+        }
+      ]
+    },
+    {
+      "title": "Social Media Motion",
+      "tag": "AFTER EFFECTS / REELS / ADS",
+      "cover": "/images/hero-blue.jpg",
+      "more_link": "https://drive.google.com/drive/folders/1UALztc4782K-o9daOcA6OcLzk_KvSjIl",
+      "projects": [
+        {
+          "title": "GAPZY 7 SERUMS",
+          "meta": "SOCIAL MEDIA MOTION — GAPZY",
+          "image": "/images/thumb-gapzy-social.jpg",
+          "link": "https://drive.google.com/file/d/1vk6kiyOFTjBtMYvZICj7cETt_yOq8oW3/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "ALOEKITA",
+          "meta": "SOCIAL MEDIA MOTION — ALOEKITA",
+          "image": "/images/thumb-drive-new.jpg",
+          "link": "https://drive.google.com/file/d/1k08Z_I5-ULC2_yP3eQHNoIIw8WL7npWJ/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "HORE OIL",
+          "meta": "SOCIAL MEDIA MOTION",
+          "image": "/images/thumb-horeoil.jpg",
+          "link": "https://drive.google.com/file/d/1ChNr6ArT68kzOcSbHMGC_3Ft0tzytUmu/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "ANTI-DANDRUFF REEL",
+          "meta": "SOCIAL MEDIA REEL",
+          "image": "/images/thumb-antidandruff.jpg",
+          "link": "https://drive.google.com/file/d/1UK8W7QJnFP2Q4RMpFrk8HJmpiUVLFjbs/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "SERUM TYPES",
+          "meta": "SOCIAL MEDIA MOTION — أنواع السيرم",
+          "image": "/images/thumb-serum.jpg",
+          "link": "https://drive.google.com/file/d/1YoMU3si1A5-XqjQN9rtK0mLwXetXCIaj/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "EMA SOCIAL",
+          "meta": "SOCIAL MEDIA MOTION",
+          "image": "/images/thumb-ema2.jpg",
+          "link": "https://drive.google.com/file/d/17LJqJ6aU3SEiX_sFPFXPxs1VFk-royEM/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "AGERA — BUY 2 GET 2 FREE",
+          "meta": "SOCIAL MEDIA MOTION — AGERA SKINCARE",
+          "image": "/images/thumb-agera.jpg",
+          "link": "https://drive.google.com/file/d/1NuBk5RZfzGp7LN7cnWB8S4o8EMst50V3/view",
+          "button": "WATCH →"
+        }
+      ]
+    },
+    {
+      "title": "Logo Animation",
+      "tag": "IDENTS / REVEALS",
+      "cover": "/images/blue-logoanim.jpg",
+      "more_link": "",
+      "projects": [
+        {
+          "title": "MAN LINE ANIMATION",
+          "meta": "LINE-ART LOGO FILM",
+          "image": "/images/thumb-manline.jpg",
+          "link": "https://vimeo.com/1122851614",
+          "button": "WATCH →"
+        },
+        {
+          "title": "PLAYGROUND LOGO ANIMATION",
+          "meta": "LOGO IDENT",
+          "image": "/images/thumb-playground.jpg",
+          "link": "https://vimeo.com/1115606830",
+          "button": "WATCH →"
+        },
+        {
+          "title": "COLLECT OF LOGO ANIMATION",
+          "meta": "LOGO COMPILATION",
+          "image": "/images/thumb-logocollect.jpg",
+          "link": "https://vimeo.com/1093547749",
+          "button": "WATCH →"
+        },
+        {
+          "title": "CUBES LOGO ANIMATION",
+          "meta": "3D LOGO IDENT",
+          "image": "/images/thumb-cubes.jpg",
+          "link": "https://vimeo.com/782090231",
           "button": "WATCH →"
         }
       ]
