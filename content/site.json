@@ -1,12 +1,4 @@
 {
-  "hero": {
-    "hello": "Hello,",
-    "name_line1": "I'M MOHAMED",
-    "name_line2": "HASSAN.",
-    "role": "SENIOR MOTION DESIGNER · 2D & 3D · EGYPT",
-    "tagline_start": "Motion, design & 3D visuals that make people ",
-    "tagline_highlight": "stop scrolling."
-  },
   "slides": [
     {
       "tag": "COLLAGE ART — FEATURED",
@@ -24,7 +16,7 @@
     },
     {
       "tag": "CGI / 3D",
-      "title": "VIRGINIA OLIVE OIL",
+      "title": "VIRGINIA OLIVE OIL ADS",
       "image": "/images/thumb-virginia.jpg",
       "link": "https://vimeo.com/1070671775",
       "button": "WATCH →"
@@ -370,6 +362,14 @@
     }
   ],
   "about": "I'm Mohamed Hassan, a senior motion designer based in Giza, Egypt, with 6 years of experience in agencies and digital marketing companies. I specialize in 2D animation and 2D & 3D motion design, with work spanning CGI, social media motion, collage animation, and AI-assisted visuals.",
+  "hero": {
+    "hello": "Hello,",
+    "name_line1": "I'M MOHAMED",
+    "name_line2": "HASSAN.",
+    "role": "SENIOR MOTION DESIGNER · 2D & 3D · EGYPT",
+    "tagline_start": "Motion, design & 3D visuals that make people",
+    "tagline_highlight": "stop scrolling."
+  },
   "contacts": [
     {
       "label": "WHATSAPP / PHONE",
