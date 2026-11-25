@@ -83,7 +83,7 @@
     var wa = D.whatsapp_link || '#';
     document.getElementById('root').innerHTML =
       '<nav class="pf-nav"><span class="pf-logo">MOHAMED<em>.</em>H</span><span class="pf-navlinks"><a href="#work">WORK</a><a href="#about">ABOUT</a><a href="#contact">CONTACT</a></span></nav>' +
-      '<header class="pf-hero"><p class="pf-hello">' + esc(h.hello) + '</p><h1 class="pf-name">' + esc(h.name_line1) + '<br />' + esc(h.name_line2) + '</h1><p class="pf-role">' + esc(h.role) + '</p><p class="pf-tagline">' + esc(h.tagline_start) + '<em>' + esc(h.tagline_highlight) + '</em></p></header>' +
+      '<header class="pf-hero"><p class="pf-hello">' + esc(h.hello) + '</p><h1 class="pf-name">' + esc(h.name_line1) + '<br />' + esc(h.name_line2) + '</h1><p class="pf-role">' + esc(h.role) + '</p><p class="pf-tagline">' + esc(String(h.tagline_start||'').replace(/\s*$/, ' ')) + '<em>' + esc(h.tagline_highlight) + '</em></p></header>' +
       renderSlider() +
       '<section class="pf-section" id="work"><h2 class="pf-h2">SELECTED WORK</h2><div class="pf-grid">' + L.grid + '</div>' + L.secs + '</section>' +
       '<section class="pf-section" id="services"><h2 class="pf-h2">WHAT I DO</h2><div class="pf-services">' + (D.services || []).map(function (s, i) { return '<div class="pf-service"><span class="pf-servicenum">' + pad(i + 1) + '</span><div><h3 class="pf-servicename">' + esc(s.name) + '</h3><p class="pf-servicedetail">' + esc(s.detail) + '</p></div></div>'; }).join('') + '</div></section>' +
