@@ -1,0 +1,79 @@
+backend:
+  name: github
+  repo: mohammedhassanci-byte/mhassan-portfolio
+  branch: main
+
+media_folder: images
+public_folder: /images
+
+publish_mode: simple
+site_url: https://mhassan-motion.pages.dev
+display_url: https://mhassan-motion.pages.dev
+
+collections:
+  - name: site
+    label: الموقع
+    files:
+      - name: site
+        label: كل محتوى الموقع
+        file: content/site.json
+        format: json
+        fields:
+          - label: "١) الشرائح الكبيرة (السلايدر فوق)"
+            name: slides
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "الوسم الصغير (مثال: 3D MOTION)", name: tag, widget: string }
+              - { label: "العنوان", name: title, widget: string }
+              - { label: "الصورة", name: image, widget: image }
+              - { label: "لينك الشغل (Vimeo / Behance / Drive)", name: link, widget: string }
+              - { label: "كلمة الزر", name: button, widget: string, default: "WATCH →" }
+          - label: "٢) الأقسام والشغل"
+            name: lanes
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "اسم القسم", name: title, widget: string }
+              - { label: "وصف صغير للقسم", name: tag, widget: string }
+              - { label: "صورة غلاف القسم", name: cover, widget: image }
+              - { label: "لينك المزيد (اختياري)", name: more_link, widget: string, required: false }
+              - label: "الشغل جوه القسم"
+                name: projects
+                widget: list
+                summary: "{{fields.title}}"
+                fields:
+                  - { label: "اسم الشغل", name: title, widget: string }
+                  - { label: "وصف صغير (مثال: 2D ANIMATION)", name: meta, widget: string }
+                  - { label: "صورة الشغل", name: image, widget: image }
+                  - { label: "لينك الشغل", name: link, widget: string }
+                  - { label: "كلمة الزر", name: button, widget: string, default: "WATCH →" }
+          - label: "٣) الخدمات"
+            name: services
+            widget: list
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "اسم الخدمة", name: name, widget: string }
+              - { label: "وصف", name: detail, widget: string }
+          - label: "٤) عني (About)"
+            name: about
+            widget: text
+          - label: "٥) أول الصفحة"
+            name: hero
+            widget: object
+            fields:
+              - { label: "Hello", name: hello, widget: string }
+              - { label: "الاسم سطر 1", name: name_line1, widget: string }
+              - { label: "الاسم سطر 2", name: name_line2, widget: string }
+              - { label: "الوظيفة", name: role, widget: string }
+              - { label: "الجملة (الجزء العادي)", name: tagline_start, widget: string }
+              - { label: "الجملة (الجزء الأزرق)", name: tagline_highlight, widget: string }
+          - label: "٦) التواصل"
+            name: contacts
+            widget: list
+            summary: "{{fields.label}}"
+            fields:
+              - { label: "العنوان (مثال: EMAIL)", name: label, widget: string }
+              - { label: "اللي يظهر", name: value, widget: string }
+              - { label: "اللينك", name: link, widget: string }
+          - { label: "لينك زر واتساب الكبير", name: whatsapp_link, widget: string }

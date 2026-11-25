@@ -1,0 +1,401 @@
+{
+  "hero": {
+    "hello": "Hello,",
+    "name_line1": "I'M MOHAMED",
+    "name_line2": "HASSAN.",
+    "role": "SENIOR MOTION DESIGNER · 2D & 3D · EGYPT",
+    "tagline_start": "Motion, design & 3D visuals that make people ",
+    "tagline_highlight": "stop scrolling."
+  },
+  "slides": [
+    {
+      "tag": "COLLAGE ART — FEATURED",
+      "title": "SAUDI ARABIA COLLAGE",
+      "image": "/images/thumb-saudi-collage.jpg",
+      "link": "https://www.behance.net/gallery/214887225/College-Art-l-saudi-arabia-2024",
+      "button": "VIEW →"
+    },
+    {
+      "tag": "3D MOTION",
+      "title": "VALANTINO PERFUME CGI",
+      "image": "/images/thumb-valantino.jpg",
+      "link": "https://vimeo.com/1016723725",
+      "button": "WATCH →"
+    },
+    {
+      "tag": "CGI / 3D",
+      "title": "VIRGINIA OLIVE OIL",
+      "image": "/images/thumb-virginia.jpg",
+      "link": "https://vimeo.com/1070671775",
+      "button": "WATCH →"
+    },
+    {
+      "tag": "AI × 3D MOTION",
+      "title": "V COLA",
+      "image": "/images/thumb-vcola.jpg",
+      "link": "https://vimeo.com/1153206633",
+      "button": "WATCH →"
+    },
+    {
+      "tag": "3D / VFX",
+      "title": "CGI PRODUCT FILM",
+      "image": "/images/thumb-cgi.jpg",
+      "link": "https://vimeo.com/1075250567",
+      "button": "WATCH →"
+    }
+  ],
+  "lanes": [
+    {
+      "title": "Motion & Animation",
+      "tag": "2D / REELS / CAMPAIGNS",
+      "cover": "/images/blue-motion.jpg",
+      "more_link": "",
+      "projects": [
+        {
+          "title": "ALOEKITA & THE FOUR GIRLS",
+          "meta": "2D ANIMATION SERIES — ألوكيتا و الأربع بنات",
+          "image": "/images/thumb-aloekita4.jpg",
+          "link": "https://vimeo.com/1109350508",
+          "button": "WATCH →"
+        },
+        {
+          "title": "SNOW MAN VS ALOEKITA",
+          "meta": "2D MOTION — BEHANCE",
+          "image": "/images/thumb-snowman.jpg",
+          "link": "https://www.behance.net/gallery/227861489/Snow-man-VS-aleokita",
+          "button": "VIEW →"
+        },
+        {
+          "title": "RE ANIMATE — BRAVO APP",
+          "meta": "RE-ANIMATION — BEHANCE",
+          "image": "/images/thumb-bravo.jpg",
+          "link": "https://www.behance.net/gallery/150313399/re-animate-(bravo-app)",
+          "button": "VIEW →"
+        },
+        {
+          "title": "SUNLOVE",
+          "meta": "ANIMATION: MOHAMED · ILLUSTRATION: NADA HAMOUDY — LE MARQUE",
+          "image": "/images/thumb-sunlove-behance.jpg",
+          "link": "https://www.behance.net/gallery/223028509/sunlove",
+          "button": "VIEW →"
+        },
+        {
+          "title": "FAWAZEER PASSION BABY — SEASON 2",
+          "meta": "2D ANIMATION — RAMADAN SERIES",
+          "image": "/images/thumb-fawazeer.jpg",
+          "link": "https://vimeo.com/1070682531",
+          "button": "WATCH →"
+        },
+        {
+          "title": "SHOW REEL",
+          "meta": "MOTION DESIGN REEL",
+          "image": "/images/thumb-showreel.jpg",
+          "link": "https://vimeo.com/1041147737",
+          "button": "WATCH →"
+        }
+      ]
+    },
+    {
+      "title": "3D & CGI",
+      "tag": "PRODUCT CGI / VFX",
+      "cover": "/images/blue-3d.jpg",
+      "more_link": "",
+      "projects": [
+        {
+          "title": "VALANTINO PERFUME CGI",
+          "meta": "3D MOTION — PRODUCT FILM",
+          "image": "/images/thumb-valantino.jpg",
+          "link": "https://vimeo.com/1016723725",
+          "button": "WATCH →"
+        },
+        {
+          "title": "VIRGINIA OLIVE OIL",
+          "meta": "CGI — PRODUCT FILM",
+          "image": "/images/thumb-virginia.jpg",
+          "link": "https://vimeo.com/1070671775",
+          "button": "WATCH →"
+        },
+        {
+          "title": "CGI PRODUCT FILM",
+          "meta": "3D / CGI",
+          "image": "/images/thumb-cgi.jpg",
+          "link": "https://vimeo.com/1075250567",
+          "button": "WATCH →"
+        },
+        {
+          "title": "VFX FOR V COLA",
+          "meta": "VFX — COMMERCIAL",
+          "image": "/images/thumb-vfx-vcola.jpg",
+          "link": "https://vimeo.com/1086495270",
+          "button": "WATCH →"
+        },
+        {
+          "title": "VFX FOR EVER YOUTH",
+          "meta": "VFX — COMMERCIAL",
+          "image": "/images/thumb-everyouth.jpg",
+          "link": "https://vimeo.com/1100842476",
+          "button": "WATCH →"
+        },
+        {
+          "title": "VFX FOR SUNLOVE",
+          "meta": "VFX — COMMERCIAL",
+          "image": "/images/thumb-sunlove.jpg",
+          "link": "https://vimeo.com/1073557220",
+          "button": "WATCH →"
+        }
+      ]
+    },
+    {
+      "title": "Social Media Motion",
+      "tag": "AFTER EFFECTS / REELS / ADS",
+      "cover": "/images/hero-blue.jpg",
+      "more_link": "https://drive.google.com/drive/folders/1UALztc4782K-o9daOcA6OcLzk_KvSjIl",
+      "projects": [
+        {
+          "title": "GAPZY 7 SERUMS",
+          "meta": "SOCIAL MEDIA MOTION — GAPZY",
+          "image": "/images/thumb-gapzy-social.jpg",
+          "link": "https://drive.google.com/file/d/1vk6kiyOFTjBtMYvZICj7cETt_yOq8oW3/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "ALOEKITA",
+          "meta": "SOCIAL MEDIA MOTION — ALOEKITA",
+          "image": "/images/thumb-drive-new.jpg",
+          "link": "https://drive.google.com/file/d/1k08Z_I5-ULC2_yP3eQHNoIIw8WL7npWJ/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "HORE OIL",
+          "meta": "SOCIAL MEDIA MOTION",
+          "image": "/images/thumb-horeoil.jpg",
+          "link": "https://drive.google.com/file/d/1ChNr6ArT68kzOcSbHMGC_3Ft0tzytUmu/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "ANTI-DANDRUFF REEL",
+          "meta": "SOCIAL MEDIA REEL",
+          "image": "/images/thumb-antidandruff.jpg",
+          "link": "https://drive.google.com/file/d/1UK8W7QJnFP2Q4RMpFrk8HJmpiUVLFjbs/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "SERUM TYPES",
+          "meta": "SOCIAL MEDIA MOTION — أنواع السيرم",
+          "image": "/images/thumb-serum.jpg",
+          "link": "https://drive.google.com/file/d/1YoMU3si1A5-XqjQN9rtK0mLwXetXCIaj/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "EMA SOCIAL",
+          "meta": "SOCIAL MEDIA MOTION",
+          "image": "/images/thumb-ema2.jpg",
+          "link": "https://drive.google.com/file/d/17LJqJ6aU3SEiX_sFPFXPxs1VFk-royEM/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "AGERA — BUY 2 GET 2 FREE",
+          "meta": "SOCIAL MEDIA MOTION — AGERA SKINCARE",
+          "image": "/images/thumb-agera.jpg",
+          "link": "https://drive.google.com/file/d/1NuBk5RZfzGp7LN7cnWB8S4o8EMst50V3/view",
+          "button": "WATCH →"
+        }
+      ]
+    },
+    {
+      "title": "AI Art",
+      "tag": "AI-GENERATED VISUALS",
+      "cover": "/images/blue-ai.jpg",
+      "more_link": "https://drive.google.com/drive/folders/1RLOZS3OeQx7g05nkbc1wlnFs4_v-2Nuf",
+      "projects": [
+        {
+          "title": "AI 3D MOTION — V COLA",
+          "meta": "AI × 3D MOTION",
+          "image": "/images/thumb-vcola.jpg",
+          "link": "https://vimeo.com/1153206633",
+          "button": "WATCH →"
+        },
+        {
+          "title": "CARAMEL FLYING",
+          "meta": "AI VIDEO",
+          "image": "/images/thumb-caramel.jpg",
+          "link": "https://drive.google.com/file/d/1sQjP5gT-ovVNgya94bGZNpwFjjifsNkv/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "GAPZY",
+          "meta": "AI VIDEO",
+          "image": "/images/thumb-gapzy.jpg",
+          "link": "https://drive.google.com/file/d/1IuKjQZSy0lCX41qzNQcAZ1NRn2bea5MN/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "NATIONAL DAY",
+          "meta": "AI VIDEO",
+          "image": "/images/thumb-nationalday.jpg",
+          "link": "https://drive.google.com/file/d/1o5q3vGp22ek-tKpI8zLw84uZLYubzgSZ/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "SAUDI NATIONAL DAY 2",
+          "meta": "AI VIDEO",
+          "image": "/images/thumb-nationalday2.jpg",
+          "link": "https://drive.google.com/file/d/1wRPdOtV5q1XjmrPbAfRc8_Fv9SWOb29D/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "AUTOMATED COFFEE FARMING",
+          "meta": "AI VIDEO",
+          "image": "/images/thumb-drive-ai.jpg",
+          "link": "https://drive.google.com/file/d/1UBnresx4J4e4sZqU35fwK2QSesfTShgt/view",
+          "button": "WATCH →"
+        },
+        {
+          "title": "LUNA ICED COFFEE",
+          "meta": "AI VIDEO — قهوة متلجة",
+          "image": "/images/thumb-drive-ai2.jpg",
+          "link": "https://drive.google.com/file/d/18lDEKev9eeyVBuYUFuw90qeK94wrwt9C/view",
+          "button": "WATCH →"
+        }
+      ]
+    },
+    {
+      "title": "Logo Animation",
+      "tag": "IDENTS / REVEALS",
+      "cover": "/images/blue-logoanim.jpg",
+      "more_link": "",
+      "projects": [
+        {
+          "title": "MAN LINE ANIMATION",
+          "meta": "LINE-ART LOGO FILM",
+          "image": "/images/thumb-manline.jpg",
+          "link": "https://vimeo.com/1122851614",
+          "button": "WATCH →"
+        },
+        {
+          "title": "PLAYGROUND LOGO ANIMATION",
+          "meta": "LOGO IDENT",
+          "image": "/images/thumb-playground.jpg",
+          "link": "https://vimeo.com/1115606830",
+          "button": "WATCH →"
+        },
+        {
+          "title": "COLLECT OF LOGO ANIMATION",
+          "meta": "LOGO COMPILATION",
+          "image": "/images/thumb-logocollect.jpg",
+          "link": "https://vimeo.com/1093547749",
+          "button": "WATCH →"
+        },
+        {
+          "title": "CUBES LOGO ANIMATION",
+          "meta": "3D LOGO IDENT",
+          "image": "/images/thumb-cubes.jpg",
+          "link": "https://vimeo.com/782090231",
+          "button": "WATCH →"
+        }
+      ]
+    },
+    {
+      "title": "Collage Art",
+      "tag": "CUT-OUT / MIXED MEDIA",
+      "cover": "/images/blue-collage.jpg",
+      "more_link": "https://www.behance.net/mohammedhadc0a",
+      "projects": [
+        {
+          "title": "SAUDI ARABIA COLLAGE",
+          "meta": "TEAM PROJECT — BEHANCE · FEATURED",
+          "image": "/images/thumb-saudi-collage.jpg",
+          "link": "https://www.behance.net/gallery/214887225/College-Art-l-saudi-arabia-2024",
+          "button": "VIEW →"
+        },
+        {
+          "title": "VIOLA COLLAGE ART",
+          "meta": "TEAM PROJECT — BEHANCE",
+          "image": "/images/thumb-viola.jpg",
+          "link": "https://www.behance.net/gallery/164025809/viola-colage-art",
+          "button": "VIEW →"
+        },
+        {
+          "title": "COLLAGE ART",
+          "meta": "TEAM PROJECT — BEHANCE",
+          "image": "/images/thumb-collage-be.jpg",
+          "link": "https://www.behance.net/gallery/227719303/collage-art",
+          "button": "VIEW →"
+        },
+        {
+          "title": "COLLAGE ART — MINISTRY OF CULTURE",
+          "meta": "COLLAGE MOTION — وزارة الثقافة",
+          "image": "/images/thumb-collage-minculture.jpg",
+          "link": "https://vimeo.com/1091650865",
+          "button": "WATCH →"
+        },
+        {
+          "title": "ALOEKITA COLLAGE",
+          "meta": "COLLAGE MOTION — VIMEO",
+          "image": "/images/thumb-aloekita-collage.jpg",
+          "link": "https://vimeo.com/1036981851",
+          "button": "WATCH →"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "name": "Motion graphics & animation",
+      "detail": "Ads, reels, intros, montage and animated campaigns."
+    },
+    {
+      "name": "2D animation",
+      "detail": "Character and collage-style 2D for series and social."
+    },
+    {
+      "name": "3D motion & CGI",
+      "detail": "Product CGI, VFX shots and fully rendered scenes."
+    },
+    {
+      "name": "Stop motion",
+      "detail": "Handcrafted, frame-by-frame animation with a tactile feel."
+    },
+    {
+      "name": "Social media motion",
+      "detail": "Animated posts, reels and ads in After Effects."
+    },
+    {
+      "name": "AI-assisted visuals",
+      "detail": "Generated concepts and imagery, finished by hand."
+    },
+    {
+      "name": "Logo animation",
+      "detail": "Idents and logo reveals with personality."
+    }
+  ],
+  "about": "I'm Mohamed Hassan, a senior motion designer based in Giza, Egypt, with 6 years of experience in agencies and digital marketing companies. I specialize in 2D animation and 2D & 3D motion design, with work spanning CGI, social media motion, collage animation, and AI-assisted visuals.",
+  "contacts": [
+    {
+      "label": "WHATSAPP / PHONE",
+      "value": "+20 114 342 7102",
+      "link": "https://wa.me/201143427102"
+    },
+    {
+      "label": "EMAIL",
+      "value": "mohammed.hassan.ci@gmail.com",
+      "link": "mailto:mohammed.hassan.ci@gmail.com"
+    },
+    {
+      "label": "BEHANCE",
+      "value": "@mohammedhadc0a",
+      "link": "https://www.behance.net/mohammedhadc0a"
+    },
+    {
+      "label": "VIMEO",
+      "value": "@user126247626",
+      "link": "https://vimeo.com/user126247626"
+    },
+    {
+      "label": "LINKEDIN",
+      "value": "Mohammed Hassan",
+      "link": "https://www.linkedin.com/in/mohammed-hassan-9219081a1"
+    }
+  ],
+  "whatsapp_link": "https://wa.me/201143427102"
+}
